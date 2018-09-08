@@ -1,0 +1,3 @@
+//////////////
+//header
+int goodbye();
